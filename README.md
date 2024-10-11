@@ -1,9 +1,8 @@
-<h1 align="center" style="display:flex; flex-direction: column; gap: 10px; align-items:center;">
+<div align="center" style="display:flex; flex-direction: column; gap: 10px; align-items:center;">
   <img src="./logo.png" alt="LED-UP Logo" width="100"/>
-  <span style="font-size : 49px;"> LED-UP General Overview</span>  
-</h1>
+  <h1 style="font-size : 49px;"> LED-UP General Overview</h1>  
+</div>
 <br>
-
 Welcome to LED-UP code repository, where we are building a decentralized data management platform. The project consists of smart contracts, serverless APIs, and comprehensive documentation.
 
 ## About LED-UP
