@@ -1,4 +1,4 @@
-<h1 align="center" style="display:flex; gap: 10px; align-items:center;">
+<h1 align="center" style="display:flex; flex-direction: column; gap: 10px; align-items:center;">
   <img src="./logo.png" alt="LED-UP Logo" width="100"/>
   <span style="font-size : 49px;"> LED-UP General Overview</span>  
 </h1>
